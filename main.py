@@ -95,7 +95,7 @@ async def pong(event):
 async def draw_matrix(event):
     message = event.message
     matrix = '12221\n21112\n21112\n21112\n12221\n21112\n21112\n21112\n21112\n12221'
-    end = '00000000\n00000000\n00000000\n0Happy holidays! 0\n00000000\n00000000\n00000000'
+    end = '00000000\n00000000\n00000000\n0Happy holidays!0\n00000000\n00000000\n00000000'
 
     matrix = matrix.replace('1', '⬜️').replace('2', '⬛️')
 
