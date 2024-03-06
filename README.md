@@ -3,7 +3,7 @@
 # Umbrellla777-bot-ENG-
 Python a script for beautiful text design in Telegram
 
-# Для Termux
+# For Termux
 1) Moving on to https://my.telegram.org/  <br/>
 Enter your phone number in the field **Your Phone Number**  <br/>
 After the confirmation code arrives, enter it in the field **Confirmation code**  <br/>
@@ -25,7 +25,7 @@ And press button **Create Application**  <br/>
 ```bash
 pkg update -y && pkg install -y git && pkg install -y python3 && git clone https://github.com/Umbrellla777/Umbrellla777-bot-ENG- && cd Umbrellla777-bot-ENG- && chmod +777 install.sh && sh install.sh && cd ..
 ```
-Коротко объясню команды:
+I will briefly explain the commands:
 ```bash
 pkg update -y # Checking for package updates and installing them
 pkg install -y git # Installing the git version control system
