@@ -74,7 +74,7 @@ print(
 @client.on(events.NewMessage(pattern='.help'))
 async def help(event):
     message = event.message
-    await message.edit("Hi! I am a bot with animated messages.\nWith me, you can send a beautiful animated message.\nList of commands:\n.ping - checking the bot for operability.\n.8 animation - is a gift for March 8th. \n.lv animation - is the heart.\n@all mentioning all the chat participants.\n.coin A coin with options for falling out - Heads, tails, edges.\n.rtext a running strip of text.\n.roll randomly the number between the two entered.\n.type animation of writing text.\n.moon Good night, with the moon phase changing.\n.bunny animation with a rabbit.\n\nCommands will also be added, follow the news in our telegram channel t.me/umbrellla777bot \n Author Umbrellla777 \n VK @Umbrellla777\n TG @Umbrellla_l")
+    await message.edit("Hi! I am a bot with animated messages.\nWith me, you can send a beautiful animated message.\nList of commands:\n.ping - checking the bot for operability.\n.8 animation - is a gift for March 8th. \n.lv animation - is the heart.\n@all mentioning all the chat participants.\n.coin A coin with options for falling out - Heads, tails, edges.\n.rtext a running strip of text.\n.roll randomly the number between the two entered.\n.type animation of writing text.\n.moon Good night, with the moon phase changing.\n.bunny animation with a rabbit.\n\nCommands will also be added, follow the news in our telegram channel t.me/umbrellla777bot \n Author Umbrellla777 \n VK @Umbrellla777\n TG @Umbrellla777")
 
 
 ###########################
