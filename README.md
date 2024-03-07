@@ -44,12 +44,12 @@ If you have done everything correctly, you will see the inscriptions:  <br/>
 ***[Launch] Do the following./start api_id api_hash"***
 
 6)Running the script.  <br/>
-In Termux writing **./start ваш_api_id ваш_api_hash**  <br/>
+In Termux writing **./start your_api_id your_api_hash**  <br/>
 Example of a command **./start 1234567 1d12d45fg56g563**  <br/>
 And press Enter. After a couple of seconds, you will be asked to enter your number again, enter, get the code, enter the code and that's it!  <br/>
 
 Upon successful launch, there will be a strip:  <br/>
-***[PROFILE: Моё_Имя | Id: 123345567 | Uname: @MyUserName]***
+***[PROFILE: My name | Id: 123345567 | Uname: @MyUserName]***
 
 7) Commands  <br/>
 The entire list of commands after starting the bot is called by the command .help <br/>
