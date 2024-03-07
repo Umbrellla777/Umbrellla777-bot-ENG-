@@ -2,7 +2,7 @@
 
 ####--------------------------------####
 #--# Author:   by Umbrellla777      #--#
-#--# Telegram: @Umbrellla_l         #--#
+#--# Telegram: @Umbrellla777        #--#
 #--# VK:       @Umbrellla777        #--#
 ####--------------------------------####
 
