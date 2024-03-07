@@ -2,7 +2,7 @@
 Author:   by Umbrellla777 <br/>
 Telegram: [@Umbrellla777](https://t.me/Umbrellla777) <br/>
 VK:       [@Umbrellla777](https://vk.com/umbrellla777) <br/>
-[My channel](https://t.me/umbrellla777bot) <br/>
+[My discussion channel](https://t.me/umbrellla777bot) <br/>
 ***
 > [!IMPORTANT]
 > The translation is not accurate (contact me for help with the translation)
