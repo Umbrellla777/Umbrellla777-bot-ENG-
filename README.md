@@ -1,5 +1,5 @@
-# The translation is not accurate (contact me for help with the translation)
-
+> [!IMPORTANT]
+> The translation is not accurate (contact me for help with the translation)
 # Umbrellla777-bot-ENG-
 Python a script for beautiful text design in Telegram
 
