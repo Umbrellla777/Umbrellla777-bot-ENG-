@@ -1,5 +1,7 @@
 > [!IMPORTANT]
 > The translation is not accurate (contact me for help with the translation)
+> [!NOTE]
+> The project is developing and work is underway to add new commands, stay tuned.
 # Umbrellla777-bot-ENG-
 Python a script for beautiful text design in Telegram
 
