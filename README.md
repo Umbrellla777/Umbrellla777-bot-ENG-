@@ -58,7 +58,7 @@ pkg install -y python3
 git clone https://github.com/Umbrellla777/Umbrellla777-bot-ENG-
 ```
 ```bash
-cd Umbrellla777-bot
+cd Umbrellla777-bot-ENG-
 ```
 ```bash
 sh install.sh
