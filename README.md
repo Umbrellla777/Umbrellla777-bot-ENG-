@@ -70,7 +70,6 @@ pkg install -y git # Installing the git version control system
 pkg install -y python3 # Installing the YAP Interpreter python 3
 git clone https://github.com/Umbrellla777/Umbrellla777-bot-ENG- # After installing git, download the repository with the script
 cd Umbrellla777-bot-ENG- # Go to the directory with the script
-chmod +777 install.sh # We give all the rights to the file, including for execution
 sh install.sh # Running the script
 cd .. # Exit to from the directory Umbrellla777-bot-ENG-
 ```
