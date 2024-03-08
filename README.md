@@ -10,10 +10,26 @@ VK:       [@Umbrellla777](https://vk.com/umbrellla777) <br/>
 > [!NOTE]
 > The project is developing and work is underway to add new commands, stay tuned.
 # Umbrellla777-bot-ENG-
-Python a script for beautiful text design in Telegram
+Python a script for text design in Telegram
 
+# Установка Termux
+Termux - this is a free and open source terminal emulator for Android <br/>
+There are several options for installing the application: <br/>
+* Installation from the [official repository](https://github.com/termux/termux-app?tab=readme-ov-file#termux-app-and-plugins)
+  > The Releases panel will show the versions. <br/>
+  > Select the version and install it. <br/>
+  > Done. <br/>
+* Installation via [F-Droid](https://f-droid.org)
+  > Installing the application from [website](https://f-droid.org). <br/>
+  > You open it and search for Thermex in the search. <br/>
+  > Install and run it. <br/>
+  > Done. <br/>
+* Installation with [4PDA](https://4pda.to/forum/index.php?showtopic=741456)
+  > Select the version and install it. <br/>
+  > Done. <br/>
+  
 # For Termux
-1) Moving on to https://my.telegram.org/  <br/>
+1) Moving on to https://my.telegram.org/apps  <br/>
 Enter your phone number in the field **Your Phone Number**  <br/>
 After the confirmation code arrives, enter it in the field **Confirmation code**  <br/>
 And press the button **Sign In**  <br/>
@@ -28,11 +44,24 @@ And press button **Create Application**  <br/>
 **api_id** these are numbers like **1234567**  <br/>
 **api_hash** these are both letters and numbers of the type **123sdf123sdf234...**  <br/>
 
-4) Installing the application **Termux**.  <br/>
-
-5) Open Termux and insert the following command into it:
+4) Open Termux and insert the following command into it:
 ```bash
-pkg update -y && pkg install -y git && pkg install -y python3 && git clone https://github.com/Umbrellla777/Umbrellla777-bot-ENG- && cd Umbrellla777-bot-ENG- && chmod +777 install.sh && sh install.sh && cd ..
+pkg update -y
+```
+```bash
+pkg install -y git
+```
+```bash
+pkg install -y python3
+```
+```bash
+git clone https://github.com/Umbrellla777/Umbrellla777-bot
+```
+```bash
+cd Umbrellla777-bot
+```
+```bash
+sh install.sh
 ```
 I will briefly explain the commands:
 ```bash
@@ -52,7 +81,7 @@ If you have done everything correctly, you will see the inscriptions:  <br/>
 ***[Completed] The installation is successfully completed!"***  <br/>
 ***[Launch] Do the following./start api_id api_hash"***
 
-6)Running the script.  <br/>
+5)Running the script.  <br/>
 In Termux writing **./start your_api_id your_api_hash**  <br/>
 Example of a command **./start 1234567 1d12d45fg56g563**  <br/>
 And press Enter. After a couple of seconds, you will be asked to enter your number again, enter, get the code, enter the code and that's it!  <br/>
@@ -60,5 +89,5 @@ And press Enter. After a couple of seconds, you will be asked to enter your numb
 Upon successful launch, there will be a strip:  <br/>
 ***[PROFILE: My name | Id: 123345567 | Uname: @MyUserName]***
 
-7) Commands  <br/>
+6) Commands  <br/>
 The entire list of commands after starting the bot is called by the command .help <br/>
