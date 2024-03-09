@@ -12,7 +12,7 @@ VK:       [@Umbrellla777](https://vk.com/umbrellla777) <br/>
 # Umbrellla777-bot-ENG-
 Python a script for text design in Telegram
 
-# Установка Termux
+# Installation Termux
 Termux - this is a free and open source terminal emulator for Android <br/>
 There are several options for installing the application: <br/>
 * Installation from the [official repository](https://github.com/termux/termux-app?tab=readme-ov-file#termux-app-and-plugins)
@@ -28,7 +28,7 @@ There are several options for installing the application: <br/>
   > Select the version and install it. <br/>
   > Done. <br/>
   
-# For Termux
+# After installation Termux
 1) Moving on to https://my.telegram.org/apps  <br/>
 Enter your phone number in the field **Your Phone Number**  <br/>
 After the confirmation code arrives, enter it in the field **Confirmation code**  <br/>
