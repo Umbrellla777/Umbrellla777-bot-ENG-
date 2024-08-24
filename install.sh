@@ -27,6 +27,12 @@ echo "${c_green}[Installation] ${c_def} Library telethon for Python"
 pip3 install telethon
 clear
 
+# install Libs for python
+echo "${c_green}[Установка] ${c_def} Библиотка emoji для Python"
+pkg install python-pip
+pip install emoji
+clear
+
 # Sucsess
 cd Umbrellla777-bot-ENG-
 mkdir users
